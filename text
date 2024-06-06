@@ -1,0 +1,11 @@
+<div class="header">
+        <div class="logo"><h1>elzero vue</h1>
+        </div>
+        <ul id="nav">
+      <router-link to="/"><a>Home</a></router-link>
+      <router-link to="/about"><a>Products</a></router-link>
+      <router-link to="/blog"><a>Store</a></router-link>
+      <router-link to="/help"><a>About Us</a></router-link>
+    </ul>
+        
+    </div>
